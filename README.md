@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open-source data projects, data cleaning challenges, or any analytics-related opportunities.
 - 📫 How to reach me https://www.linkedin.com/in/vrunalishete/
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: When I’m not analyzing data, you can find me trying to solve complex problems in games like Sudoku or badminton.
+- ⚡ Fun fact: When I’m not analyzing data, you can find me trying to solve complex problems in games like Sudoku or Jenga.
 
 <!---
 Vrunali29/Vrunali29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
